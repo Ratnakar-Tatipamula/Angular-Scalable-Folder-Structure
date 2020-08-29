@@ -1,0 +1,14 @@
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+li {
+    margin: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+}
